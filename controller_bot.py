@@ -4,7 +4,7 @@ import os
 from telegram import Update
 from telegram.ext import Application, CommandHandler, ContextTypes
 
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"   # ← Put your bot token
+BOT_TOKEN = "8628015085:AAHzJx-6NvaHYAlFx-b1gfS0SDU0wFpEO68"   # ← Put your bot token
 
 CONFIG_FILE = "adbot_config.json"
 
