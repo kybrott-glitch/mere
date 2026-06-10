@@ -5,8 +5,8 @@ from telethon import TelegramClient, events
 from telethon.errors import FloodWaitError, UserAlreadyParticipantError
 from telethon.tl.functions.channels import JoinChannelRequest
 
-API_ID = 12345678                    # ← Your API ID
-API_HASH = 'your_api_hash_here'      # ← Your API Hash
+API_ID = 38190726                    # ← Your API ID
+API_HASH = '66a4eebff562f2035bf2acabec3dd7d5'      # ← Your API Hash
 
 CONFIG_FILE = "adbot_config.json"
 
